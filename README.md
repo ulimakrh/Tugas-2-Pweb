@@ -5,4 +5,3 @@
 | -------- | -------- | -------- |
 | PWeb F | Ulima Kaltsum Rizky Hibatullah| 5025211009 |
 
-Link GitHub.io: https://ulimakrh.github.io/Tugas-2-Pweb/
