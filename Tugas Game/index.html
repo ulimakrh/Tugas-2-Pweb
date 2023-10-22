@@ -90,10 +90,8 @@
       .then(response => response.json())
       .then(data => {
           if (data.ok) {
-              // Registrasi berhasil, lanjutkan dengan logika yang diperlukan, misalnya menampilkan pesan sukses.
               console.log('Registrasi berhasil:', data.message);
           } else {
-              // Registrasi gagal, tampilkan pesan kesalahan.
               console.error('Registrasi gagal:', data.message);
           }
       })
